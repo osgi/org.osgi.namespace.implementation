@@ -1,5 +1,9 @@
 # org.osgi.namespace.implementation
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/osgi/org.osgi.namespace.implementation/badge)](https://securityscorecards.dev/viewer/?uri=github.com/osgi/org.osgi.namespace.implementation)
+[![build](https://github.com/osgi/org.osgi.namespace.implementation/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osgi/org.osgi.namespace.implementation/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/org.osgi/org.osgi.namespace.implementation)](https://central.sonatype.com/artifact/org.osgi/org.osgi.namespace.implementation)
+
 OSGi Specification repo for org.osgi.namespace.implementation
 
 Part of the [OSGi Specification Project](https://projects.eclipse.org/projects/technology.osgi).
